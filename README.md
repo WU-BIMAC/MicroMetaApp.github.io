@@ -15,7 +15,7 @@ See [the changelog]() for more details.
 More than six months since v0.1.22 and *a lot* has changed. <br/>
 Highlights include:
 * Icons snap in place ([link]())
-* Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v01-07) including several new hardware components ([link]())
+* Updated [data model]() including several new hardware components ([link]())
 * Several bug fixes ([link]())
 
 Find the full documentation at []()
