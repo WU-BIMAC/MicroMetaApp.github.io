@@ -2,13 +2,13 @@
 
 ----
 
-## The current beta release is QuPath v0.1.26!
+## The current beta release is Micro Meta App v0.1.26!
 
 This is a *beta* [available here]().
 
 See [the changelog]() for more details.
 
-## QuPath v0.1.26 now available!
+## Micro Meta App v0.1.26 now available!
 
 **The current beta release of Micro Meta App is [available here]()**.
 
@@ -32,11 +32,11 @@ Find the full documentation at []()
 A Chan Zuckerberg Initiative Medium article featuring the work of Caterina Strambio De Castillia and developemnt of Micro Meta App is available ([here](https://medium.com/@cziscience/5-imaging-scientists-share-insights-1ece553e9da3))!
 
 ### June 2020: Micro Meta App presented at the OME Community Forum!
-The talk entitled "Adaptable Community Standards and Intuitive Metadata Collection Tools for Quantitative Microscopy" presented by Caterina Strambio De Castillia at the [2020 OME Community Meeting](https://www.openmicroscopy.org/events/ome-community-meeting-2020/) is available [here](https://www.openmicroscopy.org/events/ome-community-meeting-2020/day2/).
+The talk entitled "Adaptable Community Standards and Intuitive Metadata Collection Tools for Quantitative Microscopy" in which Caterina Strambio De Castillia presented the Micro Meta App at the [2020 OME Community Meeting](https://www.openmicroscopy.org/events/ome-community-meeting-2020/) is available [here](https://www.openmicroscopy.org/events/ome-community-meeting-2020/day2/).
 
 ----
-**Please remember to cite the QuPath paper if you use it in your work!**
+**Please remember to cite Micro Meta App if you use it in your work!**
 
-_QuPath_ is produced at the <a href="https://www.umassmed.edu/pmm/">University of Massachusetts Medical School</a>.
+_Micro Meta App_ is produced at the <a href="https://www.umassmed.edu/pmm/">University of Massachusetts Medical School</a>.
 
 The software is developed in collaboration with the <a href="http://dcic.4dnucleome.org/">4D Nucleome (4DN) Data Integration and Coordination Center</a>, as part of research projects funded by the <a href="https://commonfund.nih.gov/4DNucleome">NIH funded 4DN program</a>.
