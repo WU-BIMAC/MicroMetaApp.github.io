@@ -6,7 +6,7 @@ description: Microscopy Metadata <span class="wraptastefully">for the real world
 #logo: /images/Micro-Meta App_icon.png
 logo: /images/Micro-Meta App_icon.png
 
-show_downloads: true
+show_downloads: false
 
 github:
   source_url: https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact
