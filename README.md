@@ -29,7 +29,11 @@ Find the full documentation at []()
 
 ## Other news
 
+### June 2020: Micro Meta App featured on Medium!
+A Chan Zuckerberg Initiative Medium article featuring the work of Caterina Strambio De Castillia and developemnt of Micro Meta App is available ([here](https://medium.com/@cziscience/5-imaging-scientists-share-insights-1ece553e9da3))!
 
+### June 2020: Micro Meta App presented at the OME Community Forum!
+The talk entitled "Adaptable Community Standards and Intuitive Metadata Collection Tools for Quantitative Microscopy" presented by Caterina Strambio De Castillia at the [2020 OME Community Meeting](https://www.openmicroscopy.org/events/ome-community-meeting-2020/) is available [here](https://www.openmicroscopy.org/events/ome-community-meeting-2020/day2/).
 
 ----
 **Please remember to cite the QuPath paper if you use it in your work!**
