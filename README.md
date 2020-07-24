@@ -1,4 +1,4 @@
-<!-- ![]({{ site.baseurl }}https://github.com/WU-BIMAC/MicroMetaApp.github.io/blob/master/images/Micro-Meta%20App_icon.png){: .center-image .max-width-100 } -->
+<!-- ![]({{ site.baseurl }}/images/Micro-Meta%20App_icon.png){: .center-image .max-width-100 } -->
 
 <!-- ## Micro Meta App -->
 
@@ -27,7 +27,8 @@ Find the full documentation at []()
 
 > **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope files. If you started a project in v0.1.22, it is probably best to continue with that version - or start again with v0.1.26.
 
-![Micro Meta App screenshots]()
+![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_screenshot_1.png){: .center-image }
+
 
 
 ----
