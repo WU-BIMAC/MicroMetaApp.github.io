@@ -39,4 +39,4 @@ The talk entitled "Adaptable Community Standards and Intuitive Metadata Collecti
 
 _QuPath_ is produced at the <a href="https://www.umassmed.edu/pmm/">University of Massachusetts Medical School</a>.
 
-The software is developed in collaboration with the <a href="">4D Nucleome (4DN) Data Integration and Coordination Center</a>, as part of research projects funded by the <a href="https://commonfund.nih.gov/4DNucleome">NIH funded 4DN program</a>.
+The software is developed in collaboration with the <a href="http://dcic.4dnucleome.org/">4D Nucleome (4DN) Data Integration and Coordination Center</a>, as part of research projects funded by the <a href="https://commonfund.nih.gov/4DNucleome">NIH funded 4DN program</a>.
