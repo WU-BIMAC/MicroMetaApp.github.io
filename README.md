@@ -25,7 +25,7 @@ Find the full documentation at []()
 
 > **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope files. If you started a project in v0.1.22, it is probably best to continue with that version - or start again with v0.1.26.
 
-![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_screenshot_1.png){: .center-image }
+![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
 
 
