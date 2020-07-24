@@ -1,1 +1,18 @@
 theme: jekyll-theme-minimal
+
+title: Micro Meta App
+description: Microscopy Metadata <span class="wraptastefully">or the real world!</span>
+
+# logo: images/Micro-Meta App_icon.png
+logo: /images/Micro-Meta App_icon.png
+
+show_downloads: true
+
+github:
+  win_url: 
+  mac_url: 
+  linux_url: 
+
+  source_url: https://github.com/qupath/qupath
+  docs_url: https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact
+  discuss_url: 
