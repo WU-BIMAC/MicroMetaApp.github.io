@@ -1,4 +1,3 @@
-![]({{ site.baseurl }}/images/Micro-Meta App_icon.png){: .center-image .max-width-100 }
 
 ## Micro Meta App
 
