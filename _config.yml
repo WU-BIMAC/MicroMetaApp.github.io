@@ -8,12 +8,4 @@ logo: /images/Micro-Meta App_icon.png
 
 show_downloads: false
 
-github:
-  win_url: https://github.com/qupath/qupath/releases/download/v0.2.1/QuPath-0.2.1-Windows.msi
-  mac_url: https://github.com/qupath/qupath/releases/download/v0.2.1/QuPath-0.2.1-Mac.pkg
-  linux_url: https://github.com/qupath/qupath/releases/download/v0.2.1/QuPath-0.2.1-Linux.tar.xz
-
-  source_url: https://github.com/qupath/qupath
-  docs_url: http://qupath.readthedocs.io
-  discuss_url: https://forum.image.sc/tags/qupath
-
+github: https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact
