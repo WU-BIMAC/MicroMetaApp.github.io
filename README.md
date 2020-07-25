@@ -5,13 +5,13 @@
 
 ----
 
-## The current version of Micro Meta App beta v0.0.22!
+## The current version is beta v0.0.22!
 
 This is a *beta* release and the source code is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact).
 
 See the [changelog]() for more details.
 
-## Micro Meta App beta v0.0.26 is coming soon!
+## Micro-Meta App beta v0.0.26 is coming soon!
 
 **Tovards the next beta version**.
 
