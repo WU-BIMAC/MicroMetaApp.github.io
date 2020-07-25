@@ -5,25 +5,25 @@
 
 ----
 
-## The current beta release is Micro Meta App v0.1.26!
+## The current version of Micro Meta App beta v0.0.22!
 
-This is a *beta* [available here]().
+This is a *beta* release and the source code is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact).
 
 See [the changelog]() for more details.
 
-## Micro Meta App v0.1.26 now available!
+## Micro Meta App beta v0.0.26 is coming soon!
 
-**The current beta release of Micro Meta App is [available here]()**.
+**Tovards the next beta version**.
 
-More than six months since v0.1.22 and *a lot* has changed. <br/>
+More than six months since v0.0.22 and *a lot* is being changed. <br/>
 Highlights include:
 * Icons snap in place ([link]())
 * Updated [data model]() including several new hardware components ([link]())
 * Several bug fixes ([link]())
 
-Find the full documentation at []()
+Find the full documentation [here]()
 
-> **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope files. If you started a project in v0.1.22, it is probably best to continue with that version - or start again with v0.1.26.
+> **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope files. If you started a project in v0.0.22, it is probably best to continue with that version - or even better start again with the latest version.
 
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
