@@ -8,4 +8,5 @@ logo: /images/Micro-Meta App_icon.png
 
 show_downloads: false
 
-github: https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact
+github: 
+  source_url: https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact
