@@ -21,7 +21,7 @@ Highlights include:
 * Updated [data model]() including several new hardware components ([link]())
 * Several bug fixes ([link]())
 
-Find the full documentation [here]()
+Find the full documentation [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)
 
 > **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope files. If you started a project in v0.0.22, it is probably best to continue with that version - or even better start again with the latest version.
 
