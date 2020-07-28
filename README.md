@@ -9,7 +9,10 @@
 
 This is a *beta* release and the source code is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact).
 
-See the [changelog]() for more details.
+If you want to help us testing it please contact: caterina.strambio@umassmed.edu.
+
+<!-- See the [changelog]() for more details. -->
+
 
 ## Micro-Meta App beta v0.0.26 is coming soon!
 
