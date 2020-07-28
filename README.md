@@ -9,7 +9,7 @@
 
 This is a *beta* release and the source code is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact).
 
-If you want to help us testing it please contact: caterina.strambio@umassmed.edu.
+If you want to use it and help us testing it please contact: caterina.strambio@umassmed.edu.
 
 <!-- See the [changelog]() for more details. -->
 
