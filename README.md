@@ -13,7 +13,9 @@ If you want to use it and help us testing it please contact: caterina.strambio@u
 
 <!-- See the [changelog]() for more details. -->
 
-This version fixes several bugs and introduces Icon snap-in-place. Highlights include:
+This introduces some major improvements in Micro-Meta App user experience. 
+
+**Highlights include:**
 * Icons snap in place ([link]())
 * Several bug fixes ([link]())
 
