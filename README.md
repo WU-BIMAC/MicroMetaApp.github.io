@@ -5,7 +5,7 @@
 
 ----
 
-## The current version is v0.0.0a28!
+## The current version is v0.28.2-a1-1!
 
 This is an *alpha* release and the source code is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact).
 
@@ -19,7 +19,7 @@ This version introduces major improvements in Micro-Meta App user experience.
 * Icons snap in place ([link]())
 * Several bug fixes ([link]())
 
-## Micro-Meta App beta v0.1.0b00 is coming soon!
+## Micro-Meta App beta v1.0.0-b1 is coming soon!
 
 **Tovards the first beta version!!**
 
