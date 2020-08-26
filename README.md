@@ -13,7 +13,7 @@ If you want to use it and help us testing it please contact: caterina.strambio@u
 
 <!-- See the [changelog]() for more details. -->
 
-This version fixes several bugs and introduces Icon snap-in-place Highlights include:
+This version fixes several bugs and introduces Icon snap-in-place. Highlights include:
 * Icons snap in place ([link]())
 * Several bug fixes ([link]())
 
@@ -21,6 +21,7 @@ This version fixes several bugs and introduces Icon snap-in-place Highlights inc
 
 **Tovards the first beta version**.
 The major changes in the upcoming version will include the incorporation of v02.00 of the 4DN-BINA Microscopy Metadata guidelines
+
 * Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/blob/master/Model/in%20progress/v02-00/4DN-BINA-OME-Microscopy%20Metadata_ER%20diagram_CORE%2BBASIC.jpg))
 
 Find the full documentation [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)
@@ -28,8 +29,6 @@ Find the full documentation [here](https://micrometaapp-docs.readthedocs.io/en/l
 > **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope files. If you started a project in v0.0.22, it is probably best to continue with that version - or even better start again with the latest version.
 
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
-
-
 
 ----
 ## Other news
