@@ -21,7 +21,7 @@ This version introduces major improvements in Micro-Meta App user experience.
 
 ## Micro-Meta App beta v0.1.0b00 is coming soon!
 
-**Tovards the first beta version**.
+**Tovards the first beta version!!**
 
 The major changes in the upcoming version will include the incorporation of v02.00 of the 4DN-BINA Microscopy Metadata guidelines
 
