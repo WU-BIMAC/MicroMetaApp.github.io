@@ -5,7 +5,7 @@
 
 ----
 
-## The current version is beta v0.0.0a28!
+## The current version is v0.0.0a28!
 
 This is an *alpha* release and the source code is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact).
 
@@ -13,7 +13,7 @@ If you want to use it and help us testing it please contact: caterina.strambio@u
 
 <!-- See the [changelog]() for more details. -->
 
-Highlights include:
+This version fixes several bugs and introduces Icon snap-in-place Highlights include:
 * Icons snap in place ([link]())
 * Several bug fixes ([link]())
 
