@@ -13,7 +13,7 @@ If you want to use it and help us testing it please contact: caterina.strambio@u
 
 <!-- See the [changelog]() for more details. -->
 
-This introduces some major improvements in Micro-Meta App user experience. 
+This version introduces major improvements in Micro-Meta App user experience. 
 
 **Highlights include:**
 * Icons snap in place ([link]())
