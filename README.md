@@ -5,24 +5,23 @@
 
 ----
 
-## The current version is beta v0.0.22!
+## The current version is beta v0.0.0a28!
 
-This is a *beta* release and the source code is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact).
+This is an *alpha* release and the source code is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact).
 
 If you want to use it and help us testing it please contact: caterina.strambio@umassmed.edu.
 
 <!-- See the [changelog]() for more details. -->
 
-
-## Micro-Meta App beta v0.0.26 is coming soon!
-
-**Tovards the next beta version**.
-
-More than six months since v0.0.22 and *a lot* is being changed. <br/>
 Highlights include:
 * Icons snap in place ([link]())
-* Updated [data model]() including several new hardware components ([link]())
 * Several bug fixes ([link]())
+
+## Micro-Meta App beta v0.1.0b00 is coming soon!
+
+**Tovards the first beta version**.
+The major changes in the upcoming version will include the incorporation of v02.00 of the 4DN-BINA Microscopy Metadata guidelines
+* Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/blob/master/Model/in%20progress/v02-00/4DN-BINA-OME-Microscopy%20Metadata_ER%20diagram_CORE%2BBASIC.jpg))
 
 Find the full documentation [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)
 
