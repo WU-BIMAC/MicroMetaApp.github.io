@@ -11,7 +11,7 @@ This is an *alpha* release and the source code is available as follows:
 
 * Javascript [React](https://reactjs.org/) implementation is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact)
 * Javascript [Electron-wrapped](https://www.electronjs.org/) implementation is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReactElectron)
-* Prototype [OMERO plugin](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolOmero) is [available here](https://www.openmicroscopy.org/omero/scientists/)
+* Prototype [OMERO](https://www.openmicroscopy.org/omero/scientists/) plugin is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolOmero)
 
 If you want to use it and help us testing it please contact: caterina.strambio@umassmed.edu.
 
