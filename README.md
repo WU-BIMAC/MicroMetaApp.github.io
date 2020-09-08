@@ -23,6 +23,8 @@ This version introduces major improvements in Micro-Meta App user experience.
 * Icons snap in place ([link]())
 * Several bug fixes ([link]())
 
+**Find the full documentation [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)**
+
 ## Micro-Meta App beta v1.0.0-b1 is coming soon!
 
 **Tovards the first beta version!!**
@@ -30,8 +32,6 @@ This version introduces major improvements in Micro-Meta App user experience.
 The next version will have major changes which will include the incorporation of v02.00 of the 4DN-BINA Microscopy Metadata guidelines
 
 * Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/blob/master/Model/in%20progress/v02-00/4DN-BINA-OME-Microscopy%20Metadata_ER%20diagram_CORE%2BBASIC.jpg))
-
-Find the full documentation [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)
 
 > **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope files. If you started a project in v0.0.22, it is probably best to continue with that version - or even better start again with the latest version.
 
