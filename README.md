@@ -5,7 +5,7 @@
 
 ----
 
-## The current version is v0.28.3-a1!!
+## The current version is v0.29.0-a1!!
 
 This is an *alpha* release and the source code is available as follows:
 
@@ -27,7 +27,7 @@ This version introduces major improvements in Micro-Meta App user experience.
 
 ## Micro-Meta App beta v1.0.0-b1 is coming soon!
 
-**Tovards the first beta version!!**
+**Towards the first beta version!!**
 
 The next version will have major changes which will include the incorporation of v02.00 of the 4DN-BINA Microscopy Metadata guidelines
 
