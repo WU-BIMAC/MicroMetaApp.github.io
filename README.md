@@ -5,35 +5,35 @@
 
 ----
 
-## The current version is v0.29.0-a1!!
+## The current version is beta v0.33.6-b1-1!!
 
-This is an *alpha* release and the source code is available as follows:
+This is the first *beta* release and the source code is available as follows:
 
 * Javascript [React](https://reactjs.org/) implementation is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact)
 * Javascript [Electron-wrapped](https://www.electronjs.org/) implementation is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReactElectron)
 * Prototype [OMERO](https://www.openmicroscopy.org/omero/scientists/) plugin is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolOmero)
 
-If you want to use it and help us testing it please contact: caterina.strambio@umassmed.edu.
+If you want to use Micro-Meta App and help us testing it please contact: caterina.strambio@umassmed.edu.
 
 <!-- See the [changelog]() for more details. -->
 
-This version introduces major improvements in Micro-Meta App user experience. 
+This version introduces major changes in the underlying model by incorporating the 4DN-BINA Basic extension of the OME Data Model as presented in v02.00 of the 4DN-BINA Microscopy Metadata guidelines
+
+* Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/blob/master/Model/in%20progress/v02-00/4DN-BINA-OME-Microscopy%20Metadata_ER%20diagram_CORE%2BBASIC.jpg))
 
 **Highlights include:**
-* Icons snap in place ([link]())
+* Incorporation of v2.00 of the Basic OME Data Model Extension of the 4DN-BINA Microscopy Metadata guidelines ([link]())
 * Several bug fixes ([link]())
 
 **Find the full documentation [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)**
 
-## Micro-Meta App beta v1.0.0-b1 is coming soon!
+## The Micro-Meta App beta release is coming soon!
 
-**Towards the first beta version!!**
+**Highlights!!**
+The next version will include the Image Acquisition Settings functionality.
+Stay tuned!
 
-The next version will have major changes which will include the incorporation of v02.00 of the 4DN-BINA Microscopy Metadata guidelines
-
-* Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/blob/master/Model/in%20progress/v02-00/4DN-BINA-OME-Microscopy%20Metadata_ER%20diagram_CORE%2BBASIC.jpg))
-
-> **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope files. If you started a project in v0.0.22, it is probably best to continue with that version - or even better start again with the latest version.
+> **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope files. If you started a project in a previous version, it is probably best to continue with that version - or even better start again with the latest version.
 
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
