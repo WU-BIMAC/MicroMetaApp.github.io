@@ -5,10 +5,14 @@
 
 ----
 
-## The current version is beta v0.42.0-b1-0!!
+## The current version is stable beta v0.42.1-b1-0!
 
-This is the first stable *beta* release and the source code is available as follows:
+This is the first stable *beta* release and is available as follows:
 
+### Application
+* Javascript [Electron-wrapped](https://www.electronjs.org/) implementation is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.42.1-b1-0) 
+
+### Source code
 * Javascript [React](https://reactjs.org/) implementation is [available here](https://github.com/WU-BIMAC/MicroMetaApp-React)
 * Javascript [Electron-wrapped](https://www.electronjs.org/) implementation is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Electron)
 * Prototype [OMERO](https://www.openmicroscopy.org/omero/scientists/) plugin is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Omero)
