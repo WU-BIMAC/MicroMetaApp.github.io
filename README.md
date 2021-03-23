@@ -15,9 +15,14 @@ This is the first stable *beta* release and the source code is available as foll
 
 <!-- See the [changelog]() for more details. -->
 
-This version introduces the Manage Settings component of the dataflow. In this component, the user can select a previously created Microscoe.json file, an image to annotate that was acquired using the selected Microscope and create a specific Settings.json file.
+In addition to a polished Manage Instrument component and the implementation of v2.00 of the 4DN-BINA-OME Microscopy Metadata model,           
 
 * Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/blob/master/Model/in%20progress/v02-00/4DN-BINA-OME-Microscopy%20Metadata_ER%20diagram_CORE%2BBASIC.jpg))
+                           
+
+
+this version introduces the Manage Settings component of the dataflow. In this component, the user can select a previously created Microscoe.json file, an image that was acquired using the selected Microscope, import available Microscopy Metadata from the file header using Bio-Formats, collect missing Image Acquisition Settings, and create a specific Settings.json file.
+
 
 **Highlights include:**
 * Incorporation of v2.00 of the Basic OME Data Model Extension of the 4DN-BINA Microscopy Metadata guidelines ([link]())
