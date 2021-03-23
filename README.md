@@ -5,19 +5,17 @@
 
 ----
 
-## The current version is beta v0.33.6-b1-1!!
+## The current version is beta v0.42.0-b1-0!!
 
-This is the first *beta* release and the source code is available as follows:
+This is the first stable *beta* release and the source code is available as follows:
 
-* Javascript [React](https://reactjs.org/) implementation is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReact)
-* Javascript [Electron-wrapped](https://www.electronjs.org/) implementation is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolReactElectron)
-* Prototype [OMERO](https://www.openmicroscopy.org/omero/scientists/) plugin is [available here](https://github.com/WU-BIMAC/4DNMicroscopyMetadataToolOmero)
-
-If you want to use Micro-Meta App and help us testing it please contact: caterina.strambio@umassmed.edu.
+* Javascript [React](https://reactjs.org/) implementation is [available here](https://github.com/WU-BIMAC/MicroMetaApp-React)
+* Javascript [Electron-wrapped](https://www.electronjs.org/) implementation is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Electron)
+* Prototype [OMERO](https://www.openmicroscopy.org/omero/scientists/) plugin is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Omero)
 
 <!-- See the [changelog]() for more details. -->
 
-This version introduces major changes in the underlying model by incorporating the 4DN-BINA Basic extension of the OME Data Model as presented in v02.00 of the 4DN-BINA Microscopy Metadata guidelines
+This version introduces the Manage Settings component of the dataflow. In this component, the user can select a previously created Microscoe.json file, an image to annotate that was acquired using the selected Microscope and create a specific Settings.json file.
 
 * Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/blob/master/Model/in%20progress/v02-00/4DN-BINA-OME-Microscopy%20Metadata_ER%20diagram_CORE%2BBASIC.jpg))
 
