@@ -15,25 +15,21 @@ This is the first stable *beta* release and the source code is available as foll
 
 <!-- See the [changelog]() for more details. -->
 
-In addition to a polished Manage Instrument component and the implementation of v2.00 of the 4DN-BINA-OME Microscopy Metadata model,           
-
-* Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/blob/master/Model/in%20progress/v02-00/4DN-BINA-OME-Microscopy%20Metadata_ER%20diagram_CORE%2BBASIC.jpg))
-                           
-
-
-this version introduces the Manage Settings component of the dataflow. In this component, the user can select a previously created Microscoe.json file, an image that was acquired using the selected Microscope, import available Microscopy Metadata from the file header using Bio-Formats, collect missing Image Acquisition Settings, and create a specific Settings.json file.
+In addition to a polished Manage Instrument component and the implementation of [v2.00](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) of the 4DN-BINA-OME Microscopy Metadata model, this version introduces the Manage Settings component of the dataflow. 
+In this component, the user can select a previously created Microscoe.json file, an image that was acquired using the selected Microscope, import available Microscopy Metadata from the file header using Bio-Formats, collect missing Image Acquisition Settings, and create a specific Settings.json file.
 
 
 **Highlights include:**
-* Incorporation of v2.00 of the Basic OME Data Model Extension of the 4DN-BINA Microscopy Metadata guidelines ([link]())
-* Several bug fixes ([link]())
+* Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/blob/master/Model/in%20progress/v02-00/4DN-BINA-OME-Microscopy%20Metadata_ER%20diagram_CORE%2BBASIC.jpg))
+* Manage Settings component of the application ([link]())
+* Several bug fixes ([link](https://github.com/WU-BIMAC/MicroMetaApp-React/issues))
 
 **Find the full documentation [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)**
 
-## The Micro-Meta App beta release is coming soon!
+## Coming soon!
 
 **Highlights!!**
-The next version will include the Image Acquisition Settings functionality.
+The next version will include several new features including automated Material and Methods writing, facilitated import of vendor information and a better integration with the OMERO server.
 Stay tuned!
 
 > **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope files. If you started a project in a previous version, it is probably best to continue with that version - or even better start again with the latest version.
