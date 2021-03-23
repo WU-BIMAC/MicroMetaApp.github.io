@@ -20,7 +20,7 @@ In this component, the user can select a previously created Microscoe.json file,
 
 
 **Highlights include:**
-* Updated [data model](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/blob/master/Model/in%20progress/v02-00/4DN-BINA-OME-Microscopy%20Metadata_ER%20diagram_CORE%2BBASIC.jpg))
+* Updated data model including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00))
 * Manage Settings component of the application
 * Several bug fixes ([link](https://github.com/WU-BIMAC/MicroMetaApp-React/issues))
 
