@@ -5,12 +5,12 @@
 
 ----
 
-## The current version is stable beta v0.42.1-b1-0!
+## The current version is stable beta v0.43.0-b1-0!
 
 This is the first stable *beta* release and is available as follows:
 
 ### Application
-* Javascript [Electron-wrapped](https://www.electronjs.org/) click and play executable is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.42.1-b1-0) 
+* Javascript [Electron-wrapped](https://www.electronjs.org/) click and play executable is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.43.0-b1-0) 
 
 ### Source code
 * Javascript [React](https://reactjs.org/) implementation is [available here](https://github.com/WU-BIMAC/MicroMetaApp-React)
