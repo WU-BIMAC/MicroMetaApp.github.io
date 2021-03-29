@@ -1,7 +1,7 @@
 
 <!-- ## Micro Meta App -->
 
-**_Micro Meta App_ is an open, easy to use, and powerful software platform to capture and manage Microscopy metadata on the basis of the [4DN-BINA extension](https://arxiv.org/abs/1910.11370) of the [OME data model](https://docs.openmicroscopy.org/ome-model/6.1.1/developers/model-overview.html).**
+**_Micro Meta App_ is an open, easy to use, and powerful software platform to capture and manage Microscopy metadata on the basis of the [4DN-BINA extension](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-00) of the [OME data model](https://docs.openmicroscopy.org/ome-model/6.1.1/developers/model-overview.html) which is published [here](https://arxiv.org/abs/1910.11370).**
 
 ----
 
