@@ -5,12 +5,12 @@
 
 ----
 
-## The current version is stable beta v0.44.0-b1-0!
+## The current version is stable beta v0.45.0-b1-0!
 
 This is the first stable *beta* release and is available as follows:
 
 ### Application
-* The Javascript [Electron](https://www.electronjs.org/) desktop application can be downlowaded [here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.44.0-b1-0) 
+* The Javascript [Electron](https://www.electronjs.org/) desktop application can be downlowaded [here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.45.0-b1-0) 
 
 ### Source code
 * Javascript [React](https://reactjs.org/) implementation is [available here](https://github.com/WU-BIMAC/MicroMetaApp-React)
@@ -19,12 +19,12 @@ This is the first stable *beta* release and is available as follows:
 
 <!-- See the [changelog]() for more details. -->
 
-In addition to a polished Manage Instrument component and the implementation of [v2.00](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00) of the 4DN-BINA-OME Microscopy Metadata model, this version introduces the Manage Settings component of the dataflow. 
+In addition to a polished Manage Instrument component and the implementation of [v2.00](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-00) of the 4DN-BINA-OME Microscopy Metadata model, this version introduces the Manage Settings component of the dataflow. 
 In this component, the user can select a previously created Microscoe.json file, an image that was acquired using the selected Microscope, import available Microscopy Metadata from the file header using Bio-Formats, collect missing Image Acquisition Settings, and create a specific Settings.json file.
 
 
 **Highlights include:**
-* Updated data model including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/in%20progress/v02-00))
+* Updated data model including several new hardware components ([link](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-00))
 * Manage Settings component of the application
 * Several bug fixes ([link](https://github.com/WU-BIMAC/MicroMetaApp-React/issues))
 
