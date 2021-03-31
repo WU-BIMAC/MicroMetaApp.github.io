@@ -10,7 +10,7 @@
 This is the first stable *beta* release and is available as follows:
 
 ### Application
-* The Javascript [Electron](https://www.electronjs.org/) desktop application can be downlowaded [here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.45.0-b1-0) 
+* The Javascript [Electron](https://www.electronjs.org/) desktop application can be downlowaded [here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/tag/0.45.5-b1-0) 
 
 ### Source code
 * Javascript [React](https://reactjs.org/) implementation is [available here](https://github.com/WU-BIMAC/MicroMetaApp-React)
