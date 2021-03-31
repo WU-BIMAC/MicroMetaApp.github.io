@@ -5,7 +5,7 @@
 
 ----
 
-## The current version is stable beta v0.45.0-b1-0!
+## The current version is stable beta v0.45.5-b1-0!
 
 This is the first stable *beta* release and is available as follows:
 
