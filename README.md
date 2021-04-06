@@ -19,7 +19,10 @@ This is the latest stable *beta* release and is available as follows:
 
 <!-- See the [changelog]() for more details. -->
 
-### Functionality
+> **Important!** In order to get started please follow the instructions (including *video tutorials*) available [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)**
+
+
+### What can you do with Micro-Meta App
 With this version of the Micro-Meta App you can:
 
 1) Use the **Manage Instrument** component of the App to document the Hardware Specifications of widefield light microscopes based on the **Core and Basic extension** of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model.
@@ -31,7 +34,6 @@ With this version of the Micro-Meta App you can:
 * Manage Settings component of the application to import image metadata from file headers using Bio-Formats.
 * Several bug fixes ([link](https://github.com/WU-BIMAC/MicroMetaApp-React/issues))
 
-**Find the full documentation [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)**
 
 ## Coming soon!
 
