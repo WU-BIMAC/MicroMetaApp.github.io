@@ -19,13 +19,13 @@ This is the latest stable *beta* release and is available as follows:
 
 <!-- See the [changelog]() for more details. -->
 
-> **Important!** In order to get started please follow the instructions (including **video tutorials**) available [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)
+> **Important!** In order to get started please follow the step-by-step instructions available [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html). In addition a full complement of [**video tutorials**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/VideoTutorials.html)) are also available!
 
 
 ### What can you do with Micro-Meta App?
 With this version of the Micro-Meta App you can:
 
-1) Use the **Manage Instrument** component of the App to document the Hardware Specifications of **epifluorescence, structured-light and TIRF light microscopes** based on the **Core and Basic extension** of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model.
+1) Use the [**Manage Instrument**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageInstrument.html) of the App to document the Hardware Specifications of **epifluorescence, structured-light and TIRF light microscopes** based on the **Core and Basic extension** of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model.
 
 2) Use the [**Manage Settings**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageSettings.html) component of the App to document the Image Acquisition Settings that were used to collect a specific image dataset.  In this section the user selects a previously created Microscoe.json file, an image that was acquired using the selected Microscope, import available Microscopy Metadata from the file header using Bio-Formats, collect missing Image Acquisition Settings and create a specific Settings.json file.
 
