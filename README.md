@@ -34,6 +34,10 @@ With this version of the Micro-Meta App you can:
 * Manage Settings component of the application to import image metadata from file headers using Bio-Formats.
 * Several bug fixes ([link](https://github.com/WU-BIMAC/MicroMetaApp-React/issues))
 
+> **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope or Settings files. 
+If you started a project using in a previous version of the App please first **save your file with the latest version** and then proceed with collecting image acquisiton settings. 
+If you started your project with an **alpha version of the app**  please let us know and we will help you with the transition.
+
 
 ## Coming soon!
 
@@ -47,9 +51,6 @@ The next version will include several new features including:
 * Facilitated import of vendor information and a better integration with the OMERO server.
 Stay tuned!
 
-> **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope or Settings files. 
-If you started a project using in a previous version of the App please first **save your file with the latest version** and then proceed with collecting image acquisiton settings. 
-If you started your project with an **alpha version of the app**  please let us know and we will help you with the transition.
 
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
