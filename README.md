@@ -21,7 +21,7 @@ This is the latest stable *beta* release and is available as follows:
 
 <!-- See the [changelog]() for more details. -->
 
-> **Important!** In order to get started please follow the step-by-step instructions available [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html). In addition a full complement of [**video tutorials**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/VideoTutorials.html)) are also available!
+> **Important!** In order to get started please follow the step-by-step instructions available [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html). In addition a full complement of [**video tutorials**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/VideoTutorials.html) are also available!
 
 
 ### What can you do with Micro-Meta App?
