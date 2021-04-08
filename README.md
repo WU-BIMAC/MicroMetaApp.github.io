@@ -46,7 +46,7 @@ If you started a project using in a previous version of the App please first **s
 
 The next version will include several new features including:
 
-* Full implementatino of the Confocal/Advanced extension of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model.
+* Full implementatino of the Confocal/Advanced extension of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model, which will allow to document **_Confocal and other Super-Resolution Miscoroscpes_**.
 * Automated Material and Methods writing through integration with MethodsJ2
 
 ## Future directions! 
