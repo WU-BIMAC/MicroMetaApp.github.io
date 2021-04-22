@@ -1,7 +1,7 @@
 
 <!-- ## Micro Meta App -->
 
-**_Micro Meta App_ is an open, easy to use, and powerful software platform to capture and manage Microscopy Metadata on the basis of the [4DN-BINA extension](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-00) of the [OME data model](https://docs.openmicroscopy.org/ome-model/6.1.1/developers/model-overview.html) which is published on Arxiv.org [here](https://arxiv.org/abs/1910.11370).**
+**_Micro Meta App_ is an open, easy to use, and powerful software platform to capture and manage Microscopy Metadata on the basis of the [4DN-BINA extension](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01) of the [OME data model](https://docs.openmicroscopy.org/ome-model/6.1.1/developers/model-overview.html) which is published on Arxiv.org [here](https://arxiv.org/abs/1910.11370).**
 
 ----
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
@@ -27,7 +27,7 @@ This is the latest stable *beta* release and is available as follows:
 ### What can you do with Micro-Meta App?
 With this version of the Micro-Meta App you can:
 
-1) Use the [**Manage Instrument**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageInstrument.html) of the App to document the Hardware Specifications of **_transmitted light, epifluorescence, structured-light and TIRF light microscopes_** based on the **Core and Basic extension** of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model.
+1) Use the [**Manage Instrument**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageInstrument.html) of the App to document the Hardware Specifications of **_transmitted light, epifluorescence, structured-light and TIRF light microscopes_** based on the **Core and Basic extension** of the [**v2.0 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model.
 
 2) Use the [**Manage Settings**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageSettings.html) component of the App to document the Image Acquisition Settings that were used to collect a specific image dataset.  In this section the user selects a previously created Microscoe.json file, an image that was acquired using the selected Microscope, import available Microscopy Metadata from the file header using Bio-Formats, collect missing Image Acquisition Settings and create a specific Settings.json file.
 
@@ -45,7 +45,7 @@ If you started a project using in a previous version of the App please first **s
 
 The next version will include several new features including:
 
-* Full implementatino of the Confocal/Advanced extension of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model, which will allow to document **_Confocal and other Super-Resolution Miscoroscppy experiments_**.
+* Full implementatino of the Confocal/Advanced extension of the [**v2.0 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model, which will allow to document **_Confocal and other Super-Resolution Miscoroscppy experiments_**.
 * Automated Material and Methods writing through integration with MethodsJ2
 
 ## Future directions! 
