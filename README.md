@@ -7,7 +7,7 @@
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
 
-## The current version is stable beta v0.46.5-b1-0!
+## The current version is stable beta v1.0.0-b1-1!
 
 This is the latest stable *beta* release and is available as follows:
 
@@ -35,7 +35,6 @@ With this version of the Micro-Meta App you can:
 * Updated data model including several new hardware components descrbed in the **Core and Basic extension** of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model.
 * Manage Settings component of the application to import image metadata from file headers using Bio-Formats.
 * Several bug fixes ([link](https://github.com/WU-BIMAC/MicroMetaApp-React/issues))
-
 > **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope or Settings files. 
 If you started a project using in a previous version of the App please first **save your file with the latest version** and then proceed with collecting image acquisiton settings. 
 
