@@ -11,7 +11,7 @@
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
 
-## The current version is stable beta 1.1.1-b1-1!
+## The current version is stable beta 1.2.0-b1-1!
 
 This is the latest stable *beta* release and is available as follows:
 
