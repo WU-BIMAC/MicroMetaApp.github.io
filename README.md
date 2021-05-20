@@ -11,7 +11,7 @@
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
 
-## The current version is stable beta 1.2.0-b1-1!
+## The current version is stable beta 1.2.2-b1-1!
 
 This is the latest stable *beta* release and is available as follows:
 
@@ -38,6 +38,7 @@ With this version of the Micro-Meta App you can:
 **Highlights include:**
 * Updated data model including several new hardware components descrbed in the **Core and Basic extension** of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model.
 * Manage Settings component of the application to import image metadata from file headers using Bio-Formats.
+* Improved GUI usability
 * Several bug fixes ([link](https://github.com/WU-BIMAC/MicroMetaApp-React/issues))
 > **Important!** It is not recommended to mix different version of Micro Meta App for working on Microcope or Settings files. 
 If you started a project using in a previous version of the App please first **save your file with the latest version** and then proceed with collecting image acquisiton settings. 
@@ -50,6 +51,8 @@ If you started a project using in a previous version of the App please first **s
 The next version will include several new features including:
 
 * Full implementatino of the Confocal/Advanced extension of the [**v2.0 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model, which will allow to document **_Confocal and other Super-Resolution Miscoroscppy experiments_**.
+* More intuitive GUI
+* Initial integration of the of the Calibration/Performance extension of the [**v2.0 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model, which will allow to document **_Intensity Calibration, Optical Calibratin and Mechanical Calibration_**.
 * Automated Material and Methods writing through integration with MethodsJ2
 
 ## Future directions! 
