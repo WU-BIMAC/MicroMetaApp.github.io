@@ -3,7 +3,7 @@
 
 **_Micro Meta App_ is an open, easy to use, and powerful software platform that provides an intuitive visual guide to capture and manage Microscopy Metadata on the basis of the [4DN-BINA extension](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01) of the [OME data model](https://docs.openmicroscopy.org/ome-model/6.1.1/developers/model-overview.html)**
 
-> **News!** For a complete descriptin of Micro-Meta App consult our recently posted manuscript **"Micro-Meta App: an interactive software tool to facilitate the collection of microscopy metadata based on community-driven specifications"**, which is available on BioRxiv.org [here](https://doi.org/10.1101/2021.05.31.446382).
+> **News!** For a complete description of Micro-Meta App consult our recently posted manuscript **"Micro-Meta App: an interactive software tool to facilitate the collection of microscopy metadata based on community-driven specifications"**, which is available on BioRxiv.org [here](https://doi.org/10.1101/2021.05.31.446382).
 
 > **Important!** For a thorought description of the 4DN-BINA-OME (NBO) Microscopy Metadata Specifications consult our recently posted manuscript **"Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model"**, which is available on BioRxiv.org [here](https://www.biorxiv.org/node/1919775.external-links.html).
 
@@ -36,6 +36,8 @@ With this version of the Micro-Meta App you can:
 1) Use the [**Manage Instrument**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageInstrument.html) of the App to document the Hardware Specifications of **_transmitted light, epifluorescence, structured-light and TIRF light microscopes_** based on the **Core and Basic extension** of the [**v2.0 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model.
 
 2) Use the [**Manage Settings**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageSettings.html) component of the App to document the Image Acquisition Settings that were used to collect a specific image dataset.  In this section the user selects a previously created Microscoe.json file, an image that was acquired using the selected Microscope, import available Microscopy Metadata from the file header using Bio-Formats, collect missing Image Acquisition Settings and create a specific Settings.json file.
+
+> **AVAILABLE EXAMPLE FILES** Publicly available example files and a tutorial video for the use of Micro-Meta App are available [here](https://doi.org/10.5281/zenodo.4891883) from Zenodo.org.
 
 **Highlights include:**
 * Updated data model including several new hardware components descrbed in the **Core and Basic extension** of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model.
