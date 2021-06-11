@@ -37,6 +37,7 @@ With this version of the Micro-Meta App you can:
 
 2) Use the [**Manage Settings**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageSettings.html) component of the App to document the Image Acquisition Settings that were used to collect a specific image dataset.  In this section the user selects a previously created Microscoe.json file, an image that was acquired using the selected Microscope, import available Microscopy Metadata from the file header using Bio-Formats, collect missing Image Acquisition Settings and create a specific Settings.json file.
 
+### EXAMPLE DATASETS
 > **AVAILABLE EXAMPLE FILES** Publicly available example files and a tutorial video for the use of Micro-Meta App are available [here](https://doi.org/10.5281/zenodo.4891883) from Zenodo.org.
 
 **Highlights include:**
