@@ -13,7 +13,7 @@
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
 ## What can you do with Micro-Meta App?
-With this version of the Micro-Meta App you can:
+With Micro-Meta App you can:
 
 1) Use the [**Manage Instrument**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageInstrument.html) of the App to document the Hardware Specifications of **_transmitted light, epifluorescence, structured-light and TIRF light microscopes_** based on the **Core and Basic extension** of the [**v2.0 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model.
 
@@ -55,8 +55,6 @@ If you started a project using in a previous version of the App please first **s
 
 > If you are a newby and you want to learn more about the importance of metadata and quality control to ensure full reproducibility, quality and scientific value in light microscopy, please take a look at our recently posted overview manuscript entitled **"A perspective on Microscopy Metadata: data provenance and quality control"**, which is available on ArXiv.org [here](https://arxiv.org/abs/1910.11370).
 
-
-
 ## Coming soon!
 
 The next version will include several new features including:
@@ -73,6 +71,12 @@ Stay tuned!
 
 ----
 ## Other news
+
+### June 2021: Micro-Meta App workshops featured at the 2021 ELMI Meeting
+A series of [three workshops](https://www.elmi2021.org/sponsors/workshop-schedule.html)on the use of Micro-Meta App were presented at the [2021 ELMI Meeting](https://www.elmi2021.org/)!
+
+### June 2021: Micro-Meta App flash-talk and demo presented at the 2021 OME Community Meeting
+A [flash-talk](https://www.youtube.com/watch?v=LO2-5U_9s6w&list=PL-oOCWFUMH51ACy8QhTYc4ppaoICJQDU_&index=2) and a [live-demo](https://www.openmicroscopy.org/events/ome-community-meeting-2021/day1/) on the use of Micro-Meta App were presented at the [2021 OME Community Meeting](https://www.openmicroscopy.org/events/ome-community-meeting-2021/)!
 
 ### June 2020: Micro Meta App featured on Medium!
 A Chan Zuckerberg Initiative Medium article featuring the work of Caterina Strambio De Castillia and developemnt of Micro Meta App is available ([here](https://medium.com/@cziscience/5-imaging-scientists-share-insights-1ece553e9da3))!
