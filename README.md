@@ -13,7 +13,7 @@
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
 
-## The current version is stable beta 1.3.2-b1-1!
+## The current version is stable beta 1.3.3-b1-1!
 
 This is the latest stable *beta* release and is available as follows:
 
@@ -27,7 +27,9 @@ This is the latest stable *beta* release and is available as follows:
 
 <!-- See the [changelog]() for more details. -->
 
-> **Important!** In order to get started please follow the step-by-step instructions available [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html). In addition a full complement of [**video tutorials**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/VideoTutorials.html) are also available!
+> **Important!** In order to get started please follow the **step-by-step instructions available [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)**. In addition a full complement of **[video tutorials](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/VideoTutorials.html) are also available!**
+
+> **Note!** If you intend to use Micro-Meta App **on MacOS you might encounter difficulties un-zipping and launching the MacOS Zip**. To address these issues please follow the **special instructions specified in this [VIDEO](https://vimeo.com/529609242)**
 
 
 ### What can you do with Micro-Meta App?
