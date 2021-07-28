@@ -46,7 +46,8 @@ If you started a project using in a previous version of the App please first **s
 
 > **Important!** If you started your project with an **alpha version of the app** please let us know and we will help you with the transition.
 
-## EXAMPLE DATASETS
+## Example datasets
+
 > **AVAILABLE EXAMPLE FILES** Publicly available example files and a tutorial video for the use of Micro-Meta App are available [here](https://doi.org/10.5281/zenodo.4891883) from Zenodo.org.
 
 ## Want to learn more?
@@ -70,7 +71,7 @@ The next version will include several new features including:
 Stay tuned!
 
 ----
-## Other news
+## Other news!
 
 ### June 2021: Micro-Meta App workshops featured at the 2021 ELMI Meeting
 A series of [three workshops](https://www.elmi2021.org/sponsors/workshop-schedule.html)on the use of Micro-Meta App were presented at the [2021 ELMI Meeting](https://www.elmi2021.org/)!
