@@ -87,7 +87,7 @@ The talk entitled "Adaptable Community Standards and Intuitive Metadata Collecti
 ----
 # Credits!
 
->**Important!** Cite Micro Meta App as described [here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/blob/master/CITATION.cff) if you use it in your work!**
+>**Important!** Cite Micro Meta App as described [here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/blob/master/CITATION.cff) if you use it in your work!
 
 _Micro Meta App_ is produced at the <a href="https://www.umassmed.edu/pmm/">University of Massachusetts Medical School</a>.
 
