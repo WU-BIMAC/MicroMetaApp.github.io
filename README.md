@@ -5,7 +5,7 @@
 
 > **News!** Micro-Meta App was developed as part of a **global community initiative** that led to multiple publications featured on a recent **Nature Methods FOCUS ISSUE** dedicated to **[Reporting and reproducibility in microscopy](https://www.nature.com/collections/djiciihhjh)**. 
 
-> For more information, consult our recent Micro-Meta App publications on **[Nature Methods](https://doi.org/10.1038/s41592-021-01315-z)** and **[BioRxiv.org](https://doi.org/10.1101/2021.05.31.446382)**.
+> **News!** For more details on Micro-Meta App, consult our recent **[Nature Methods](https://doi.org/10.1038/s41592-021-01315-z)** and **[BioRxiv.org](https://doi.org/10.1101/2021.05.31.446382)** publications!.
 
 > **Important!** In order to get started please follow these **[step-by-step instructions](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)** and **[video tutorials](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/VideoTutorials.html)**
 
