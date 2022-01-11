@@ -22,7 +22,7 @@ With Micro-Meta App you can:
 
 2) Use [**Manage Settings**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageSettings.html) to document the **acquisition settings** that were used to collect a _**specific image dataset**_. Here, the user extracts metadata available in the image header and in previously created Microscope.JSON files, enters missing information and produces a JSON file summarizing the conditions that were used for a specific acquisiton session.
 
-## The current version is stable beta 1.3.3-b1-1!
+## Availability
 
 The latest stable *beta* release is available as follows:
 
@@ -38,7 +38,6 @@ The latest stable *beta* release is available as follows:
 
 <!-- See the [changelog]() for more details. -->
 
-**Highlights include:**
 * Updated data model including several new hardware components descrbed in the **Core and Basic extension** of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model.
 * Manage Settings component of the application to import image metadata from file headers using Bio-Formats.
 * Improved GUI usability
@@ -55,7 +54,7 @@ If you started a project using in a previous version of the App please first **s
 
 # Want to learn more?
 
-> For a thorought description of the 4DN-BINA-OME (NBO) Microscopy Metadata Specifications consult our recently posted manuscript **"Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model"**, which is available on BioRxiv.org [here](https://www.biorxiv.org/node/1919775.external-links.html).
+> For a thorought description of the 4DN-BINA-OME (NBO) Microscopy Metadata Specifications on which Micro-Meta App is based, consult our recent publications on **[Nature Methods](https://doi.org/10.1038/s41592-021-01327-9)** and **[BioRxiv.org](https://www.biorxiv.org/node/1919775.external-links.html)**.
 
 > If you are a newby and you want to learn more about the importance of metadata and quality control to ensure full reproducibility, quality and scientific value in light microscopy, please take a look at our recently posted overview manuscript entitled **"A perspective on Microscopy Metadata: data provenance and quality control"**, which is available on ArXiv.org [here](https://arxiv.org/abs/1910.11370).
 
@@ -88,7 +87,7 @@ The talk entitled "Adaptable Community Standards and Intuitive Metadata Collecti
 ----
 # Credits!
 
-**Please remember to cite Micro Meta App if you use it in your work!**
+**Please remember to cite [Micro Meta App[(https://github.com/WU-BIMAC/MicroMetaApp-Electron/blob/master/CITATION.cff) if you use it in your work!**
 
 _Micro Meta App_ is produced at the <a href="https://www.umassmed.edu/pmm/">University of Massachusetts Medical School</a>.
 
