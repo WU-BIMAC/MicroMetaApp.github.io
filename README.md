@@ -3,9 +3,9 @@
 
 **_Micro Meta App_ is an open, easy to use, and powerful software platform that provides an intuitive visual guide to capture and manage Microscopy Metadata on the basis of the [4DN-BINA extension](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01) of the [OME data model](https://docs.openmicroscopy.org/ome-model/6.1.1/developers/model-overview.html)**
 
-> **News!** Micro-Meta App was developed as part of a global community initiative whose work has been recently featured on Nature Methods in a FOCUS ISSUE entitled [**"Reporting and reproducibility in microscopy"**](https://www.nature.com/collections/djiciihhjh). 
+> **News!** Micro-Meta App was developed as part of a global community initiative that led to multiple publications features on a recent Nature Methods FOCUS ISSUE entitled [**"Reporting and reproducibility in microscopy"**](https://www.nature.com/collections/djiciihhjh). 
 
-> For a complete description of Micro-Meta App consult our recently posted manuscript **"Micro-Meta App: an interactive software tool to facilitate the collection of microscopy metadata based on community-driven specifications"**, which is available on BioRxiv.org [here](https://doi.org/10.1101/2021.05.31.446382).
+> For a complete description of Micro-Meta App consult our recent publications on [**Nature Methods**](https://doi.org/10.1038/s41592-021-01315-z) and [**BioRxiv.org**](https://doi.org/10.1101/2021.05.31.446382).
 
 > **Important!** In order to get started please follow the **step-by-step instructions available [here](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)**. In addition a full complement of **[video tutorials](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/VideoTutorials.html) are also available!**
 
