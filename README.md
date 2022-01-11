@@ -3,7 +3,7 @@
 
 **Micro Meta App** is an open, easy to use, and powerful software platform that provides an intuitive **visual guide** to capture and manage Microscopy Metadata on the basis of the **[4DN-BINA extension](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01)** of the **[OME data model](https://docs.openmicroscopy.org/ome-model/6.1.1/developers/model-overview.html).**
 
-Micro-Meta App was developed as part of a **global community initiative** that led to multiple publications featured on a recent **Nature Methods FOCUS ISSUE** dedicated to **[Reporting and reproducibility in microscopy](https://www.nature.com/collections/djiciihhjh)**. 
+**Micro-Meta App** was developed as part of a **global community initiative** that led to multiple publications featured on a recent **Nature Methods FOCUS ISSUE** dedicated to **[Reporting and reproducibility in microscopy](https://www.nature.com/collections/djiciihhjh)**. 
 
 > **News!** For more details on Micro-Meta App, consult our recent **[Nature Methods](https://doi.org/10.1038/s41592-021-01315-z)** and **[BioRxiv.org](https://doi.org/10.1101/2021.05.31.446382)** publications!.
 
