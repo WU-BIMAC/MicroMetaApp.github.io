@@ -34,7 +34,7 @@ The latest stable *beta* release is available as follows:
 * Javascript [Electron-wrapped](https://www.electronjs.org/) implementation is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Electron)
 * Prototype [OMERO](https://www.openmicroscopy.org/omero/scientists/) plugin is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Omero)
 
-### Major changes
+## Major changes
 
 <!-- See the [changelog]() for more details. -->
 
@@ -86,7 +86,7 @@ A Chan Zuckerberg Initiative Medium article featuring the work of Caterina Stram
 The talk entitled "Adaptable Community Standards and Intuitive Metadata Collection Tools for Quantitative Microscopy" in which Caterina Strambio De Castillia presented the Micro Meta App at the [2020 OME Community Meeting](https://www.openmicroscopy.org/events/ome-community-meeting-2020/) is available [here](https://www.openmicroscopy.org/events/ome-community-meeting-2020/day2/).
 
 ----
-## Credits!
+# Credits!
 
 **Please remember to cite Micro Meta App if you use it in your work!**
 
