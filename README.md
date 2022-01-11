@@ -12,7 +12,7 @@
 > **Note!** If you intend to use Micro-Meta App **on MacOS you might encounter difficulties un-zipping and launching the MacOS Zip**. To address these issues please follow the **instructions specified in this [VIDEO](https://vimeo.com/529609242)**
 
 ----
-# What can you do with Micro-Meta App?
+# What is Micro-Meta App?
 
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
