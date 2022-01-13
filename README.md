@@ -3,7 +3,7 @@
 
 **Micro Meta App** is an open, easy to use, and powerful software platform that provides an intuitive **visual guide** to capture and manage Microscopy Metadata on the basis of the **[4DN-BINA extension](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01)** of the **[OME data model](https://docs.openmicroscopy.org/ome-model/6.1.1/developers/model-overview.html).**
 
-Micro-Meta App was developed as part of a **global community initiative** that led to multiple publications featured on a recent **Nature Methods FOCUS ISSUE** dedicated to **[Reporting and reproducibility in microscopy](https://www.nature.com/collections/djiciihhjh)**. 
+**Micro-Meta App** was developed as part of a **global community initiative** that led to multiple publications featured on a recent **Nature Methods FOCUS ISSUE** dedicated to **[Reporting and reproducibility in microscopy](https://www.nature.com/collections/djiciihhjh)**. 
 
 > **News!** For more details on Micro-Meta App, consult our recent **[Nature Methods](https://doi.org/10.1038/s41592-021-01315-z)** and **[BioRxiv.org](https://doi.org/10.1101/2021.05.31.446382)** publications!.
 
@@ -12,18 +12,19 @@ Micro-Meta App was developed as part of a **global community initiative** that l
 > **Note!** If you intend to use Micro-Meta App **on MacOS you might encounter difficulties un-zipping and launching the MacOS Zip**. To address these issues please follow the **instructions specified in this [VIDEO](https://vimeo.com/529609242)**
 
 ----
+# What is Micro-Meta App?
+
 ![Micro Meta App screenshots]({{site.baseurl}}/images/Micro-Meta App_composite screenshot.png){: .center-image }
 
-## What can you do with Micro-Meta App?
 With Micro-Meta App you can:
 
-1) Use the [**Manage Instrument**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageInstrument.html) of the App to document the Hardware Specifications of **_transmitted light, epifluorescence, structured-light and TIRF light microscopes_** based on the **Core and Basic extension** of the [**v2.0 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model.
+1) Use [**Manage Instrument**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageInstrument.html) to document the **_hardware specifications_** of **_transmitted light, epifluorescence, structured-light and TIRF light microscopes_** based on the **[4DN-BINA-OME](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01)** Microscopy Metadata model.
 
-2) Use the [**Manage Settings**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageSettings.html) component of the App to document the Image Acquisition Settings that were used to collect a specific image dataset.  In this section the user selects a previously created Microscoe.json file, an image that was acquired using the selected Microscope, import available Microscopy Metadata from the file header using Bio-Formats, collect missing Image Acquisition Settings and create a specific Settings.json file.
+2) Use [**Manage Settings**](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/ManageSettings.html) to document the **acquisition settings** that were used to collect a _**specific image dataset**_. Here, the user extracts metadata available in the image header and in previously created Microscope.JSON files, enters missing information and produces a JSON file summarizing the conditions that were used for a specific acquisiton session.
 
-## The current version is stable beta 1.3.3-b1-1!
+## Availability
 
-This is the latest stable *beta* release and is available as follows:
+The latest stable *beta* release is available as follows:
 
 ### Application
 * The latest version of the Javascript [Electron](https://www.electronjs.org/) desktop application can be downlowaded [here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/releases/latest) 
@@ -33,11 +34,10 @@ This is the latest stable *beta* release and is available as follows:
 * Javascript [Electron-wrapped](https://www.electronjs.org/) implementation is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Electron)
 * Prototype [OMERO](https://www.openmicroscopy.org/omero/scientists/) plugin is [available here](https://github.com/WU-BIMAC/MicroMetaApp-Omero)
 
-### Major changes
+## Major changes
 
 <!-- See the [changelog]() for more details. -->
 
-**Highlights include:**
 * Updated data model including several new hardware components descrbed in the **Core and Basic extension** of the [**v2.00 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-00) Microscopy Metadata model.
 * Manage Settings component of the application to import image metadata from file headers using Bio-Formats.
 * Improved GUI usability
@@ -52,28 +52,25 @@ If you started a project using in a previous version of the App please first **s
 
 > **AVAILABLE EXAMPLE FILES** Publicly available example files and a tutorial video for the use of Micro-Meta App are available [here](https://doi.org/10.5281/zenodo.4891883) from Zenodo.org.
 
-## Want to learn more?
+# Want to learn more?
 
-> For a thorought description of the 4DN-BINA-OME (NBO) Microscopy Metadata Specifications consult our recently posted manuscript **"Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model"**, which is available on BioRxiv.org [here](https://www.biorxiv.org/node/1919775.external-links.html).
+> For a thorought description of the 4DN-BINA-OME (NBO) Microscopy Metadata Specifications on which Micro-Meta App is based, consult our recent publications on **[Nature Methods](https://doi.org/10.1038/s41592-021-01327-9)** and **[BioRxiv.org](https://www.biorxiv.org/node/1919775.external-links.html)**.
 
 > If you are a newby and you want to learn more about the importance of metadata and quality control to ensure full reproducibility, quality and scientific value in light microscopy, please take a look at our recently posted overview manuscript entitled **"A perspective on Microscopy Metadata: data provenance and quality control"**, which is available on ArXiv.org [here](https://arxiv.org/abs/1910.11370).
 
-## Coming soon!
+# Future directions!
 
-The next version will include several new features including:
+Stay tuned for upcoming changes/improvements:
 
-* Full implementatino of the Confocal/Advanced extension of the [**v2.0 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model, which will allow to document **_Confocal and other Super-Resolution Miscoroscppy experiments_**.
+* Full implementatino of the Confocal/Advanced extension of the [**v2.01 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model, which will allow to document **_Confocal and other Super-Resolution Miscoroscppy experiments_**.
 * More intuitive GUI
-* Initial integration of the of the Calibration/Performance extension of the [**v2.0 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model, which will allow to document **_Intensity Calibration, Optical Calibratin and Mechanical Calibration_**.
+* Initial integration of the of the Calibration/Performance extension of the [**v2.01 of the 4DN-BINA-OME**](https://github.com/WU-BIMAC/MicroscopyMetadata4DNGuidelines/tree/master/Model/stable%20version/v02-01) Microscopy Metadata model, which will allow to document **_Intensity Calibration, Optical Calibratin and Mechanical Calibration_**.
 * Automated Material and Methods writing through integration with MethodsJ2
-
-## Future directions! 
-
 * Facilitated import of vendor information and a better integration with the OMERO server.
 Stay tuned!
 
 ----
-## Other news!
+# Other news!
 
 ### June 2021: Micro-Meta App workshops featured at the 2021 ELMI Meeting
 A series of [three workshops](https://www.elmi2021.org/sponsors/workshop-schedule.html)on the use of Micro-Meta App were presented at the [2021 ELMI Meeting](https://www.elmi2021.org/)!
@@ -88,9 +85,9 @@ A Chan Zuckerberg Initiative Medium article featuring the work of Caterina Stram
 The talk entitled "Adaptable Community Standards and Intuitive Metadata Collection Tools for Quantitative Microscopy" in which Caterina Strambio De Castillia presented the Micro Meta App at the [2020 OME Community Meeting](https://www.openmicroscopy.org/events/ome-community-meeting-2020/) is available [here](https://www.openmicroscopy.org/events/ome-community-meeting-2020/day2/).
 
 ----
-## Credits!
+# Credits!
 
-**Please remember to cite Micro Meta App if you use it in your work!**
+>**Important!** Cite Micro Meta App as described [here](https://github.com/WU-BIMAC/MicroMetaApp-Electron/blob/master/CITATION.cff) if you use it in your work!
 
 _Micro Meta App_ is produced at the <a href="https://www.umassmed.edu/pmm/">University of Massachusetts Medical School</a>.
 
