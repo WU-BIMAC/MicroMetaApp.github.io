@@ -7,7 +7,10 @@
 
 > **News!** For more details on Micro-Meta App, consult our recent **[Nature Methods](https://doi.org/10.1038/s41592-021-01315-z)** and **[BioRxiv.org](https://doi.org/10.1101/2021.05.31.446382)** publications!.
 
-> **Important!** In order to get started please follow these **[step-by-step instructions](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)** and **[video tutorials](https://micrometaapp-docs.readthedocs.io/en/latest/docs/tutorials/VideoTutorials.html)**
+> **Important!** In order to get started please use the following resources:
+- Protocols.io **[Getting Started with the Micro-Meta App tutorial](https://www.protocols.io/view/getting-started-with-micro-meta-app-tutorial-b8c4rsyw)**
+- ReadTheDocs **[step-by-step instructions](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)** and 
+- **[Video tutorials](https://youtube.com/playlist?list=PLd2SsBj4SIsh7eE1M7l4v5_EsjUQcsfb0l)**
 
 > **Note!** If you intend to use Micro-Meta App **on MacOS you might encounter difficulties un-zipping and launching the MacOS Zip**. To address these issues please follow the **instructions specified in this [VIDEO](https://vimeo.com/529609242)**
 
