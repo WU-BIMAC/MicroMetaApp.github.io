@@ -11,7 +11,7 @@
 - Protocols.io **[Getting Started with the Micro-Meta App tutorial](https://www.protocols.io/view/getting-started-with-micro-meta-app-tutorial-b8c4rsyw)**
 - ReadTheDocs **[step-by-step instructions](https://micrometaapp-docs.readthedocs.io/en/latest/index.html)** and 
 - **[Video tutorials](https://youtube.com/playlist?list=PLd2SsBj4SIsh7eE1M7l4v5_EsjUQcsfb0)**
-- **[Example JSON files](https://doi.org/10.5281/zenodo.5847477)
+- **[Example JSON files](https://doi.org/10.5281/zenodo.5847477)**
 
 > **Note!** If you intend to use Micro-Meta App **on MacOS you might encounter difficulties un-zipping and launching the MacOS Zip**. To address these issues please follow the **instructions specified in this [VIDEO](https://vimeo.com/529609242)**
 
