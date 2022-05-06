@@ -53,7 +53,7 @@ If you started a project using in a previous version of the App please first **s
 
 ## Example datasets
 
-> **AVAILABLE EXAMPLE FILES** Publicly available example files and a tutorial video for the use of Micro-Meta App are available [here](https://doi.org/10.5281/zenodo.4891883) from Zenodo.org.
+> **AVAILABLE EXAMPLE FILES** A set of publicly available example JSON files that were generated using Micro-Meta App to document microscopy experiments from 16 different individual core facilities and videos to torials to get started are available:[here](https://doi.org/10.5281/zenodo.5847477) from Zenodo.org. 
 
 # Want to learn more?
 
